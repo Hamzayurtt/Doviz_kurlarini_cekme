@@ -1,7 +1,5 @@
 # Canlı Döviz Kuru Takip Uygulaması
 
-![Uygulama Ekran Görüntüsü](ekran-goruntusu.png)
-
 Hoş geldiniz! 
 
 Bu proje, Türkiye Cumhuriyeti Merkez Bankası'nın güncel döviz kurlarını çekerek istediğiniz döviz kuru üzerinden belirttiğiniz
